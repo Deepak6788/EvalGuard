@@ -261,12 +261,6 @@ Hallucination Risk   : 0.0000
 
 ---
 
----
-
-## Sample Outputs
-
-### Evaluation Report
-
 ## Sample Outputs
 
 ### Evaluation Report
